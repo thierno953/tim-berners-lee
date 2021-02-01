@@ -1,2 +1,2 @@
 # Voir le lien
-[Link to the page](https://thierno953.github.io/Tim-Berners-Lee)
+[Link to the page](https://thierno953.github.io/Tim-berners-lee/)
